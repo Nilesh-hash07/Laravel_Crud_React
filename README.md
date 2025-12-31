@@ -1,5 +1,5 @@
 # 1. Clone repository
-git clone https://github.com/suresh-ramani/react-crud-app.git
+git clone "---repo-link---"
 cd react-crud-app
 
 # 2. Backend (Laravel)
